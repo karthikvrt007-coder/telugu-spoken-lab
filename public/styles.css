@@ -1,0 +1,48 @@
+:root {
+  --bg: #0d0a0c;
+  --card: #1a1218;
+  --ink: #f6efe8;
+  --mute: #c4b4a8;
+  --accent: #e85d4c;
+  --gold: #e8c37a;
+  --line: #3a2a32;
+  --ok: #7dcfb6;
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; background: var(--bg); color: var(--ink); font-family: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif; }
+body { min-height: 100vh; }
+header {
+  padding: 28px 24px 8px;
+  border-bottom: 1px solid var(--line);
+}
+header h1 { margin: 0; font-weight: 600; letter-spacing: 0.02em; }
+header p { margin: 6px 0 0; color: var(--mute); }
+nav { display: flex; gap: 8px; flex-wrap: wrap; padding: 16px 24px; }
+nav button, .btn {
+  background: transparent; color: var(--ink); border: 1px solid var(--line);
+  padding: 8px 14px; border-radius: 999px; cursor: pointer; font: inherit;
+}
+nav button.active, .btn.primary { background: var(--accent); border-color: var(--accent); color: #fff; }
+.btn.gold { background: var(--gold); color: #1a1218; border-color: var(--gold); }
+main { padding: 8px 24px 64px; max-width: 980px; }
+.score {
+  display: flex; gap: 16px; align-items: baseline; padding: 0 24px 8px;
+}
+.score b { color: var(--gold); }
+.grid { display: grid; gap: 12px; }
+.card {
+  background: var(--card); border: 1px solid var(--line); border-radius: 16px;
+  padding: 16px 18px;
+}
+.te { font-size: 1.35rem; margin: 0 0 6px; }
+.meta { color: var(--mute); font-size: 0.95rem; }
+.row { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 10px; }
+.tag { font-size: 0.75rem; border: 1px solid var(--line); padding: 3px 8px; border-radius: 999px; color: var(--mute); }
+.done { outline: 1px solid var(--ok); }
+.locked { opacity: 0.45; filter: blur(0.4px); }
+.sayback { margin-top: 18px; padding-top: 12px; border-top: 1px dashed var(--line); }
+input[type="text"] {
+  width: 100%; margin-top: 8px; padding: 10px 12px; border-radius: 10px;
+  border: 1px solid var(--line); background: #110c10; color: var(--ink); font: inherit;
+}
+footer { padding: 24px; color: var(--mute); font-size: 0.9rem; }
