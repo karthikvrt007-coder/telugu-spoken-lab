@@ -1,0 +1,52 @@
+{
+  "title": "Heat Vault",
+  "pitch": "Points buy nights. Weekly threshold unlocks spoken after-dark Telugu — the lines a local actually uses when the door is locked.",
+  "threshold": 40,
+  "packs": [
+    {
+      "id": "r1",
+      "week": 1,
+      "title": "First heat — flirting without sounding like a textbook",
+      "cost": 40,
+      "lines": [
+        { "te": "nuvvu nāku nachchāvu", "en": "I like you", "kn": "nīnu nanage ishta" },
+        { "te": "nī smile chūste control kādu", "en": "Your smile wrecks my control", "kn": "ninna smile nōḍidre control illa" },
+        { "te": "oka coffee, just manam iddaru", "en": "One coffee. Just us two", "kn": "ondu coffee, nāvu ibbaru" }
+      ]
+    },
+    {
+      "id": "r2",
+      "week": 2,
+      "title": "Hands — consent + heat in the same breath",
+      "cost": 40,
+      "lines": [
+        { "te": "nīku okay ā? nēnu daggara vastā", "en": "You okay if I come closer?", "kn": "ninage okay-nā? nānu hattira baruttēne" },
+        { "te": "ī button vaddu antē āpēstā", "en": "Say stop and I stop", "kn": "nilisu andre nilluttēne" },
+        { "te": "nī skin chaalā soft gā undi", "en": "Your skin is so soft", "kn": "ninna skin tumba soft" }
+      ]
+    },
+    {
+      "id": "r3",
+      "week": 3,
+      "title": "Mouth — pillow Telugu",
+      "cost": 40,
+      "lines": [
+        { "te": "nannu mūta pettu, nīlāgā", "en": "Kiss me, slow", "kn": "nannannu nīdāgi mute hāku" },
+        { "te": "nī pettelu nā neck mīda pettu", "en": "Put your lips on my neck", "kn": "ninna tuṭi nanna kōralige" },
+        { "te": "mellagā kāḍu, nēnu ready gā unnā", "en": "Bite softly. I'm ready", "kn": "mellage kaccu, nānu ready" }
+      ]
+    },
+    {
+      "id": "r4",
+      "week": 4,
+      "title": "Night — the reason you opened the vault",
+      "cost": 40,
+      "lines": [
+        { "te": "nī mīda nēnu unnā, feel avutundā?", "en": "I'm on you. Can you feel it?", "kn": "nānu ninna mēle iddīni, feel āgtidiyā?" },
+        { "te": "lōpali tīsēyi, ippuḍē", "en": "Take it off. Now", "kn": "tēge, īga" },
+        { "te": "nannu lōpali teesuko, nīku istam unnanta", "en": "Take me in as much as you want", "kn": "nannannu olage tago, ninage ishta iruvashtu" },
+        { "te": "nīto ī night full nāku kāvāli", "en": "I want this whole night with you", "kn": "ninna jote ī night full bēku" }
+      ]
+    }
+  ]
+}

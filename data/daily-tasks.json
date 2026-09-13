@@ -1,0 +1,10 @@
+{
+  "weekThreshold": 40,
+  "tasks": [
+    { "id": "t1", "title": "Say 5 verb forms out loud", "points": 8, "category": "verbs" },
+    { "id": "t2", "title": "Glue 3 sentences with connectors", "points": 8, "category": "connectors" },
+    { "id": "t3", "title": "Address one elder + one friend correctly", "points": 8, "category": "addressing" },
+    { "id": "t4", "title": "Run a street or phone pack", "points": 8, "category": "sentences" },
+    { "id": "t5", "title": "Record yourself repairing one mixed Kannada line", "points": 8, "category": "special" }
+  ]
+}

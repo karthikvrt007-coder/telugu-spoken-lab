@@ -1,0 +1,19 @@
+{
+  "id": "connectors",
+  "title": "Small connectors — the glue of a turn",
+  "note": "These are tiny and they do most of the work in spoken Telugu.",
+  "items": [
+    { "id": "c-kani", "sub": "small", "te": "kāni", "en": "but", "kn": "ādare", "line": "rāle, kāni call cēstā", "hint": "KAA-ni" },
+    { "id": "c-ayte", "sub": "small", "te": "ayitē", "en": "if so / then", "kn": "ādare / ādre", "line": "nīku time undā? ayitē rā", "hint": "ayi-TAY" },
+    { "id": "c-endi", "sub": "small", "te": "endi / entandi", "en": "so / well then (softener)", "kn": "ēnandrē feel", "line": "endi, ēmi plans?", "hint": "EN-di" },
+    { "id": "c-anta", "sub": "small", "te": "anta", "en": "that much / so / quotative feel", "kn": "anta (not always same)", "line": "anta easy kādu", "hint": "AN-ta" },
+    { "id": "c-ani", "sub": "small", "te": "ani", "en": "that (quote marker)", "kn": "anta / endu", "line": "vastā ani cheppā", "hint": "a-NI" },
+    { "id": "c-gā", "sub": "small", "te": "-gā", "en": "like / as / -ly", "kn": "-āgi", "line": "tondaragā rā", "hint": "GAA" },
+    { "id": "c-kuda", "sub": "small", "te": "kūdā", "en": "also / even", "kn": "kūḍa", "line": "nēnu kūdā vastā", "hint": "KOO-daa" },
+    { "id": "c-inkā", "sub": "small", "te": "inkā", "en": "still / more", "kn": "innū", "line": "inkā time undi", "hint": "in-KAA" },
+    { "id": "c-mātra", "sub": "small", "te": "mātram", "en": "only", "kn": "mātra", "line": "okka call mātram", "hint": "MAA-tram" },
+    { "id": "c-aitē", "sub": "small", "te": "aitē / unṭē", "en": "if", "kn": "iddare", "line": "time unṭē vastā", "hint": "un-TAY" },
+    { "id": "c-kadā", "sub": "small", "te": "kadā / gadā", "en": "right? / you know", "kn": "allavā", "line": "nīku telusu gadā", "hint": "ga-DAA" },
+    { "id": "c-sare", "sub": "small", "te": "sarē", "en": "okay / alright", "kn": "sari", "line": "sarē, cēstā", "hint": "sa-RAY" }
+  ]
+}
