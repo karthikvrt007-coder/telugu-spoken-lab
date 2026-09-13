@@ -1,0 +1,17 @@
+{
+  "id": "addressing",
+  "title": "Addressing — the fastest way to sound local or rude",
+  "note": "Wrong pronoun is a social error before it is a grammar error. Default polite.",
+  "items": [
+    { "id": "a-miru", "sub": "respect", "te": "mīru", "en": "you (respect / plural)", "kn": "nīvu", "line": "mīru bāgā unnārā?", "rule": "strangers, elders, in-laws, anyone you just met" },
+    { "id": "a-nuvvu", "sub": "casual", "te": "nuvvu", "en": "you singular casual", "kn": "nīnu", "line": "nuvvu ēmi cēstunnāv?", "rule": "close friends, younger people, lover after the door is closed" },
+    { "id": "a-andi", "sub": "respect", "te": "andī / gāru", "en": "sir/ma'am flavor", "kn": "avare / ri", "line": "ēmi cēyāli andī?", "rule": "shops, offices, first meetings" },
+    { "id": "a-ra", "sub": "casual", "te": "rā", "en": "bro particle", "kn": "lō", "line": "rā, coffee tāgudām", "rule": "male friends only" },
+    { "id": "a-amma-addr", "sub": "kin", "te": "ammā", "en": "mom / also warm vocative to women", "kn": "amma", "line": "ammā, annaṃ pettāvā?", "rule": "kin + warmth. context decides" },
+    { "id": "a-nanna", "sub": "kin", "te": "nānnā", "en": "dad", "kn": "appa", "line": "nānnā ikkaḍa unnārā?", "rule": "kin" },
+    { "id": "a-anna", "sub": "kin", "te": "annā", "en": "elder brother / respectful male", "kn": "aṇṇa", "line": "annā, koncam help undā?", "rule": "also used for slightly older men" },
+    { "id": "a-akka", "sub": "kin", "te": "akkā", "en": "elder sister / respectful female", "kn": "akka", "line": "akkā, ī dāri enta?", "rule": "street-safe to unknown women" },
+    { "id": "a-bhaiya", "sub": "casual", "te": "bhaiyā", "en": "bro (contact word)", "kn": "bhāiya", "line": "bhaiyā, auto undā?", "rule": "auto, shop — Hindi contact, widely used" },
+    { "id": "a-baby", "sub": "casual", "te": "bābu / baby", "en": "intimate you", "kn": "kannu / baby", "line": "bābu, koncam daggara rā", "rule": "Heat vault register. Not for public elders." }
+  ]
+}

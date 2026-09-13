@@ -1,0 +1,19 @@
+{
+  "id": "special",
+  "title": "Special words — particles locals lean on",
+  "note": "These are not vocabulary lists. They change the feel of the whole sentence.",
+  "items": [
+    { "id": "s-le", "sub": "particles", "te": "lē", "en": "soft command / come on", "kn": "lō / kano", "line": "rā lē, late avtundi", "feel": "push without barking" },
+    { "id": "s-ra", "sub": "particles", "te": "rā", "en": "casual male vocative", "kn": "lō", "line": "ēmi rā?", "feel": "only to close male friends. never to elders" },
+    { "id": "s-rey", "sub": "particles", "te": "rēy", "en": "hey (rough casual)", "kn": "ē lō", "line": "rēy, ikkaḍa chūḍu", "feel": "street-rough" },
+    { "id": "s-amma", "sub": "particles", "te": "ammā", "en": "emphasis / surprise (not only mother)", "kn": "ammā same use", "line": "bāgundi ammā", "feel": "flavor particle" },
+    { "id": "s-andi", "sub": "particles", "te": "andī", "en": "polite particle after a verb", "kn": "ri / tande feel", "line": "cheppaṇḍi", "feel": "adds respect" },
+    { "id": "s-parledu", "sub": "particles", "te": "paravālēdu", "en": "it's fine / never mind", "kn": "paravāgilla", "line": "paravālēdu, avasaram lēdu", "feel": "release the tension" },
+    { "id": "s-asalu", "sub": "particles", "te": "asalu", "en": "at all / actually", "kn": "ashtū / nijavāgi", "line": "asalu time lēdu", "feel": "sharpens a no" },
+    { "id": "s-koncam", "sub": "particles", "te": "koncam", "en": "a bit", "kn": "svalpa", "line": "koncam āgu", "feel": "softens a request" },
+    { "id": "s-ippude", "sub": "particles", "te": "ippuḍē", "en": "just now / right now", "kn": "īga / īga nē", "line": "ippuḍē vaccā", "feel": "immediacy" },
+    { "id": "s-malli", "sub": "particles", "te": "malli", "en": "again", "kn": "matte", "line": "malli call ceyyi", "feel": "repeat" },
+    { "id": "s-nijanga", "sub": "particles", "te": "nijangā", "en": "really", "kn": "nijavāgi", "line": "nijangā nā?", "feel": "check surprise" },
+    { "id": "s-ante", "sub": "particles", "te": "antē", "en": "I mean / that is", "kn": "andre", "line": "antē, nāku manci kādu", "feel": "self-repair mid sentence" }
+  ]
+}
