@@ -1,0 +1,134 @@
+{
+  "id": "verbs",
+  "title": "Verbs — how a local actually conjugates",
+  "note": "Default polite is mīru + -āru. Casual nuvvu + -āv. Kannada cousins sit next to each form. Completed feel uses -ēs- / -ēy-.",
+  "items": [
+    {
+      "id": "v-undu",
+      "sub": "present",
+      "root": "undu",
+      "gloss": "be / exist",
+      "kannada": "iru / iddīni",
+      "natural": "mīru bāgā unnārā?",
+      "hint": "un-NAA-raa",
+      "forms": {
+        "present": { "nēnu": "unnānu", "nuvvu": "unnāv", "mīru": "unnāru", "adi": "undi" },
+        "past": { "nēnu": "unnānu (state) / undēnu", "mīru": "unnāru" },
+        "future": { "nēnu": "untānu", "mīru": "untāru" }
+      },
+      "say": "Ask how someone is with existence, not Hindi kaise hain."
+    },
+    {
+      "id": "v-vastu",
+      "sub": "present",
+      "root": "rā / vastā",
+      "gloss": "come",
+      "kannada": "baruttēne / bā",
+      "natural": "nēnu ippuḍē vastā",
+      "hint": "VAS-taa",
+      "forms": {
+        "present": { "nēnu": "vastunnānu", "nuvvu": "vastunnāv", "mīru": "vastunnāru" },
+        "past": { "nēnu": "vaccā / vaccānu", "mīru": "vaccāru" },
+        "future": { "nēnu": "vastā / vastānu", "mīru": "vastāru" },
+        "completed": { "nēnu": "vaccēsa", "mīru": "vaccēsāru" }
+      },
+      "say": "Spoken often drops the -nu: vastā, vaccā."
+    },
+    {
+      "id": "v-tinu",
+      "sub": "past",
+      "root": "tinu",
+      "gloss": "eat",
+      "kannada": "tinnu / tinde",
+      "natural": "nēnu tinēsa, full ayyindi",
+      "hint": "tin-AY-sa",
+      "forms": {
+        "present": { "nēnu": "tintunnānu", "mīru": "tintunnāru" },
+        "past": { "nēnu": "tinnānu / tinnā", "mīru": "tinnāru" },
+        "future": { "nēnu": "tintānu", "mīru": "tintāru" },
+        "completed": { "nēnu": "tinēsa", "mīru": "tinēsāru" }
+      },
+      "say": "tinēsa is what you say after a meal, not just tinnānu."
+    },
+    {
+      "id": "v-ceyyi",
+      "sub": "future",
+      "root": "ceyyi",
+      "gloss": "do",
+      "kannada": "māḍu (different root; Tamil sey is the cousin)",
+      "natural": "nēnu cēstā, tension padaku",
+      "hint": "CHAYS-taa",
+      "forms": {
+        "present": { "nēnu": "cēstunnānu", "mīru": "cēstunnāru" },
+        "past": { "nēnu": "cēsānu / cēsā", "mīru": "cēsāru" },
+        "future": { "nēnu": "cēstā / cēstānu", "mīru": "cēstāru" },
+        "completed": { "nēnu": "cēsēsa", "mīru": "cēsēsāru" }
+      },
+      "say": "Do not calque Kannada māḍuttēne."
+    },
+    {
+      "id": "v-cheppu",
+      "sub": "present",
+      "root": "cheppu",
+      "gloss": "say / tell",
+      "kannada": "hēḷu",
+      "natural": "āmeki cheppu, rātri call cēstā ani",
+      "hint": "chep-PU",
+      "forms": {
+        "present": { "nēnu": "cheptunnānu", "mīru": "cheptunnāru" },
+        "past": { "nēnu": "cheppānu", "mīru": "cheppāru" },
+        "future": { "nēnu": "cheptānu", "mīru": "cheptāru" },
+        "completed": { "nēnu": "cheppēsa", "mīru": "cheppēsāru" }
+      },
+      "say": "Use ani to quote: call cēstā ani cheppu."
+    },
+    {
+      "id": "v-agu",
+      "sub": "past",
+      "root": "agu / avvu",
+      "gloss": "happen / become",
+      "kannada": "āgu",
+      "natural": "ēmi ayindi?",
+      "hint": "ay-IN-di",
+      "forms": {
+        "present": { "adi": "avutundi" },
+        "past": { "adi": "ayindi" },
+        "future": { "adi": "avutundi" },
+        "completed": { "adi": "ayipōyindi" }
+      },
+      "say": "ēmi ayindi beats the textbook ēmi jarigindi on the street."
+    },
+    {
+      "id": "v-pov",
+      "sub": "future",
+      "root": "po",
+      "gloss": "go",
+      "kannada": "hōgu",
+      "natural": "manam ippuḍē pōdām",
+      "hint": "po-DAAM",
+      "forms": {
+        "present": { "nēnu": "pōtunnānu", "mīru": "pōtunnāru" },
+        "past": { "nēnu": "poyyānu / poyyā", "mīru": "poyyāru" },
+        "future": { "nēnu": "pōtānu", "mīru": "pōtāru", "manam": "pōdām" },
+        "completed": { "nēnu": "poyyēsa", "mīru": "poyyēsāru" }
+      },
+      "say": "Inclusive we: manam pōdām, not mēmu pōtāmu unless you exclude them."
+    },
+    {
+      "id": "v-chudu",
+      "sub": "completed",
+      "root": "chūḍu",
+      "gloss": "see / look",
+      "kannada": "nōḍu",
+      "natural": "nēnu chūsēsa, problem lēdu",
+      "hint": "choo-SAY-sa",
+      "forms": {
+        "present": { "nēnu": "chūstunnānu" },
+        "past": { "nēnu": "chūsānu" },
+        "future": { "nēnu": "chūstānu" },
+        "completed": { "nēnu": "chūsēsa", "mīru": "chūsēsāru" }
+      },
+      "say": "Completed -ēs- means you already handled it."
+    }
+  ]
+}
