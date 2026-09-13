@@ -1,0 +1,30 @@
+{
+  "id": "sentences",
+  "title": "Sentences — natural spoken packs",
+  "note": "Not literal English. What a local would actually push out of the mouth.",
+  "items": [
+    { "id": "st1", "sub": "street", "te": "ēmi ayindi?", "en": "What happened?", "kn": "ēn āytu?", "scene": "street" },
+    { "id": "st2", "sub": "street", "te": "koncam āgu, call vastundi", "en": "Wait a bit, a call is coming", "kn": "svalpa nillu", "scene": "street" },
+    { "id": "st3", "sub": "street", "te": "idi enta avuddi?", "en": "How much will this be?", "kn": "idu eshtu āguttade?", "scene": "street" },
+    { "id": "st4", "sub": "street", "te": "tondaragā pōdām, late avtundi", "en": "Let's go quick, we'll be late", "kn": "bēga hōgōṇa", "scene": "street" },
+    { "id": "st5", "sub": "street", "te": "nāku avasaram lēdu", "en": "I don't need it", "kn": "nanage beku illa", "scene": "street" },
+    { "id": "h1", "sub": "home", "te": "annam tinṇāva?", "en": "Did you eat?", "kn": "ūṭa māḍideyā?", "scene": "home" },
+    { "id": "h2", "sub": "home", "te": "nēnu tinēsa", "en": "I already ate", "kn": "tinde", "scene": "home" },
+    { "id": "h3", "sub": "home", "te": "adi nā illu", "en": "That's my house", "kn": "adu nanna mane", "scene": "home" },
+    { "id": "h4", "sub": "home", "te": "atanu illu lō lēdu", "en": "He is not at home", "kn": "avanu maneyalli illa", "scene": "home" },
+    { "id": "h5", "sub": "home", "te": "manam ippuḍē pōvāli", "en": "We should leave now", "kn": "nāvīga hōgabēku", "scene": "home" },
+    { "id": "p1", "sub": "phone", "te": "ēmi cēstunnāv rā?", "en": "What are you up to?", "kn": "ēn māḍtiddīya?", "scene": "phone" },
+    { "id": "p2", "sub": "phone", "te": "nēnu rātri call cēstā", "en": "I'll call at night", "kn": "rātri call māḍtīni", "scene": "phone" },
+    { "id": "p3", "sub": "phone", "te": "network lēdu ikkaḍa", "en": "No network here", "kn": "illide network", "scene": "phone" },
+    { "id": "p4", "sub": "phone", "te": "malli call ceyyi", "en": "Call again", "kn": "matte call māḍu", "scene": "phone" },
+    { "id": "p5", "sub": "phone", "te": "āmeki cheppu, nēnu vastā ani", "en": "Tell her I am coming", "kn": "avaḷige hēḷu baruttīni anta", "scene": "phone" },
+    { "id": "x1", "sub": "heat", "te": "nuvvu chaalā andangā unnāv", "en": "You look really good", "kn": "nīnu tumba candavāgi iddīya", "scene": "heat", "locked": true },
+    { "id": "x2", "sub": "heat", "te": "nī voice vinte nāku heat vastundi", "en": "Your voice turns me on", "kn": "ninna voice kēḷidre heat barutte", "scene": "heat", "locked": true },
+    { "id": "x3", "sub": "heat", "te": "daggara rā, koncam ālāgā", "en": "Come closer, slow", "kn": "hattira bā, nīdānāgi", "scene": "heat", "locked": true },
+    { "id": "x4", "sub": "heat", "te": "nī guggilō nā ceyi pettā?", "en": "Can I put my hand on your waist?", "kn": "ninna nadiige kai iḍlā?", "scene": "heat", "locked": true },
+    { "id": "x5", "sub": "heat", "te": "nannu mūta pettu", "en": "Kiss me", "kn": "nannannu mute hākū", "scene": "heat", "locked": true },
+    { "id": "x6", "sub": "heat", "te": "nī body nāku chaalā istam", "en": "I really like your body", "kn": "ninna body nanage tumba ishta", "scene": "heat", "locked": true },
+    { "id": "x7", "sub": "heat", "te": "ippudē undu, vaddu pōku", "en": "Stay. Don't go yet", "kn": "īga iru, hōgabēḍa", "scene": "heat", "locked": true },
+    { "id": "x8", "sub": "heat", "te": "nīto night full undāli anipistundi", "en": "I want the whole night with you", "kn": "ninna jote full night irabēku anisutte", "scene": "heat", "locked": true }
+  ]
+}
